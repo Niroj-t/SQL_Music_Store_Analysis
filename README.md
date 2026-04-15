@@ -19,5 +19,5 @@ By working on this project, you will understand how to use SQL queries to analyz
 - MYSQL
 - Music Store Database (Schema)
 
-
+(MusicDatabaseSchema.png)
 ---
