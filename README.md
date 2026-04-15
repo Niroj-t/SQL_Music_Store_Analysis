@@ -1,13 +1,13 @@
-# SQL Project: Music Store Analysis 🎵
+# SQL Project: Music Store Analysis 
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on analyzing an online music store database using SQL. It is designed for beginners who want to learn how to explore real-world datasets and extract meaningful business insights.
 
 By working on this project, you will understand how to use SQL queries to analyze a music playlist database and help the store improve its business decisions and growth.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze music store data using SQL
 - Answer business-related questions using queries
 - Understand customer behavior and sales patterns
@@ -15,7 +15,7 @@ By working on this project, you will understand how to use SQL queries to analyz
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 - MYSQL
 - Music Store Database (Schema)
 
